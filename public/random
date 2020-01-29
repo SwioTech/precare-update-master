@@ -1,0 +1,211 @@
+	<section id="testimonials" class="vc_row pt-140 pb-60">
+				<div class="container">
+					<div class="row">
+
+						<div class="lqd-column col-md-8 col-md-offset-2">
+
+							<header class="fancy-title text-center mb-75">
+
+								<h2 class="mt-0 mb-3">Hear from our great community</h2>
+
+							</header><!-- /.fancy-title -->
+
+						</div><!-- /.lqd-column col-md-8 col-md-offset-2 -->
+	
+						<div class="lqd-column col-md-12">
+	
+							<div class="carousel-container carousel-nav-left px-5 mx-5">
+	
+								<div class="row">
+	
+									<div class="col-md-3 col-xs-12 mb-4 mb-md-0">
+	
+										<div class="carousel-items row testimonials-details w-100 row" data-lqd-flickity='{ "asNavFor": ".carousel-quotes-1", "rightToLeft": true }'>
+	
+											<div class="col-md-4 col-sm-3 col-xs-4">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-right testimonials-details-only ">
+													<div class="testimonial-details">
+														<figure class="avatar mb-2">
+															<img src="./assets/demo/testimonials/testi-8.jpg" alt="Ivana Jones" />
+														</figure>
+														<div class="testimonial-info">
+															<h5 class="">Ivana Jones</h5>
+															<h6>Founder</h6>
+														</div>
+													</div>
+												</div>
+											</div><!-- /.col-md-4 -->
+	
+											<div class="col-md-4 col-sm-3 col-xs-4">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-right testimonials-details-only ">
+													<div class="testimonial-details">
+														<figure class="avatar mb-2">
+															<img src="./assets/demo/testimonials/testi-9.png" alt="Ivana Jones" />
+														</figure>
+														<div class="testimonial-info">
+															<h5 class="">Ivana Jones</h5>
+															<h6>Founder</h6>
+														</div><!-- /.testimonial-info -->
+													</div><!-- /.testimonial-details -->
+												</div><!-- /.testimonial -->
+											</div><!-- /.col-md-4 -->
+	
+											<div class="col-md-4 col-sm-3 col-xs-4">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-right testimonials-details-only ">
+													<div class="testimonial-details">
+														<figure class="avatar mb-2">
+															<img src="./assets/demo/testimonials/testi-10.png" alt="Ivana Jones" />
+														</figure>
+														<div class="testimonial-info">
+															<h5 class="">Ivana Jones</h5>
+															<h6>Founder</h6>
+														</div><!-- /.testimonial-info -->
+													</div><!-- /.testimonial-details -->
+												</div><!-- /.testimonial -->
+											</div><!-- /.col-md-4 -->
+	
+											<div class="col-md-4 col-sm-3 col-xs-4">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-right testimonials-details-only ">
+													<div class="testimonial-details">
+														<figure class="avatar mb-2">
+															<img src="./assets/demo/testimonials/testi-8.jpg" alt="Ivana Jones" />
+														</figure>
+														<div class="testimonial-info">
+															<h5 class="">Ivana Jones</h5>
+															<h6>Founder</h6>
+														</div><!-- /.testimonial-info -->
+													</div><!-- /.testimonial-details -->
+												</div><!-- /.testimonial -->
+											</div><!-- /.col-md-4 -->
+	
+										</div><!-- /.carousel-items -->
+	
+									</div><!-- /.col-md-3 -->
+	
+									<div class="col-md-8 col-md-offset-1 col-xs-offset-0 col-xs-12">
+	
+										<div class="carousel-items row testimonials-quotes row carousel-quotes-1" data-lqd-flickity='{ "prevNextButtons": true, "navStyle": 2, "navOffsets": { "nav": { "left": 15 } }, "rightToLeft": true }'>
+	
+											<div class="col-xs-12">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-left testimonials-quote-only">
+													<div class="testimonial-quote">
+														<blockquote class="font-size-18 lh-225">
+															<p>The fastest theme ever built: Don’t compromise the speed and efficiency. Next-generation technologies, on demand loading and adaptive content deliver the maximum performance.</p>
+														</blockquote>
+													</div><!-- /.testimonial-quote -->
+												</div><!-- /.testimonial -->
+											</div><!-- /.col-xs-12 -->
+	
+											<div class="col-xs-12">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-left testimonials-quote-only">
+													<div class="testimonial-quote">
+														<blockquote class="font-size-18 lh-225">
+															<p>The fastest theme ever built: Don’t compromise the speed and efficiency. Next-generation technologies, on demand loading and adaptive content deliver the maximum performance.</p>
+														</blockquote>
+													</div><!-- /.testimonial-quote -->
+												</div><!-- /.testimonial -->
+											</div><!-- /.col-xs-12 -->
+	
+											<div class="col-xs-12">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-left testimonials-quote-only">
+													<div class="testimonial-quote">
+														<blockquote class="font-size-18 lh-225">
+															<p>The fastest theme ever built: Don’t compromise the speed and efficiency. Next-generation technologies, on demand loading and adaptive content deliver the maximum performance.</p>
+														</blockquote>
+													</div><!-- /.testimonial-quote -->
+												</div><!-- /.testimonial -->
+											</div><!-- /.col-xs-12 -->
+	
+											<div class="col-xs-12">
+												<div class="testimonial testimonial-lg testimonial-details-sm text-left testimonials-quote-only">
+													<div class="testimonial-quote">
+														<blockquote class="font-size-18 lh-225">
+															<p>The fastest theme ever built: Don’t compromise the speed and efficiency. Next-generation technologies, on demand loading and adaptive content deliver the maximum performance.</p>
+														</blockquote>
+													</div><!-- /.testimonial-quote -->
+												</div><!-- /.testimonial -->
+											</div><!-- /.col-xs-12 -->
+	
+										</div><!-- /.carousel-items -->
+	
+									</div><!-- /.col-md-8 -->
+	
+								</div><!-- /.row -->
+								
+							</div><!-- /.carousel-container -->
+	
+						</div><!-- /.lqd-column col-md-12 -->
+	
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+
+            testimonial Images
+
+            <section class="vc_row pt-55 pb-110">
+
+				<div class="container">
+					<div class="row">
+
+						<div class="lqd-column col-md-12">
+
+							<div class="carousel-container carousel-nav-left carousel-nav-md carousel-dots-style1">
+
+								<div class="carousel-items row" data-lqd-flickity='{"cellAlign":"left","prevNextButtons":false,"buttonsAppendTo":"self","pageDots":false,"groupCells":false,"wrapAround":true,"autoPlay":3000,"pauseAutoPlayOnHover":false}'>
+
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-1.png" class="mt-10 w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-2.png" class="mt-10 w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-3.png" class="mt-10 w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-4.png" class="w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-5.png" class="w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-6.png" class="mt-10 w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-4.png" class="w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-5.png" class="w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+									<div class="lqd-column carousel-item col-md-2 col-sm-3 col-xs-4">
+										<figure class="text-center opacity-02 reset-opacity-onhover">
+											<img src="./assets/demo/clients/client-6.png" class="mt-10 w-60" alt="Client">
+										</figure>
+									</div><!-- /.carousel-item -->
+
+								</div><!-- /.carousel-items row -->
+
+							</div><!-- /.carousel-container -->
+
+						</div><!-- /.col-md-12 -->
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+
+			</section>
